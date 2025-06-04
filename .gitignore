@@ -1,0 +1,27 @@
+# iOS
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+
+# Android
+*.apk
+*.aab
+build/
+.gradle/
+local.properties
+keystore.jks
+
+# React Native / Flutter
+node_modules/
+.expo/
+*.log
+.env
+
+# General
+.DS_Store
+*.swp
+*.swo
+*~
