@@ -1,4 +1,7 @@
-# My Test Changes
+# My Test Change 
+feature/update-docs
+This is a calculator app for testing Git workflows
+=======
 # Mobile App Project
 
 ## Quick Start
