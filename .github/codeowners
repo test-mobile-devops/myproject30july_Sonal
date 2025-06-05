@@ -1,0 +1,11 @@
+# Default owners for everything
+* @mobile-leads
+
+# Platform specific (update with actual usernames)
+*.swift @ios-lead-username
+*.kt @android-lead-username
+*.js @frontend-lead-username
+
+# Critical files
+README.md @mobile-leads
+.github/ @mobile-leads
